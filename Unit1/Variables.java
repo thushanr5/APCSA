@@ -1,23 +1,24 @@
 public class Variables {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+    public static void main(String[] args) {
+	// TODO Auto-generated method stub
 		
-		//Strings 
-		final String name = "Thushan";
-		String nameTwo = "John";
+	//Strings 
+	final String name = "Thushan";
+	String nameTwo = "John";
 		
-		//Int
-		int age = 20;
-		int ageTwo = 30;
+	//Int
+	int age = 20;
+	int ageTwo = 30;
 	
-		//Boolean
-		boolean isCool = true;
-		boolean isFriendly = false;
+	//Boolean
+	boolean isCool = true;
+	boolean isFriendly = false;
 		
-		Double val = 2.0;
-		Double strength = 15.5;
+	//Double
+	Double val = 2.0;
+	Double strength = 15.5;
 		
 	}
-
+	
 }
