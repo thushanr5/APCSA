@@ -8,3 +8,9 @@ Highest(1): !, ++, -- Evaluated from right to left
 (6): &&
 (7): !!
 Lowest(8): =, +=, -=, *=, /=, %= Evaluated from right to left
+
+Ecscape Sequences:
+
+\n -> New Line
+\" ->Double Quote
+\\ ->Backslash
