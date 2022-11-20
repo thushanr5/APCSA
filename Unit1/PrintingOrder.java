@@ -9,13 +9,27 @@ public class Variables {
 		System.out.println("a");
 		System.out.println("real");
 		System.out.print("person\n");
-    	
+		
+    		/*Output
+		Hi there
+		joer u a
+		a
+		real
+		person
+		*/
+		
 		System.out.println("hi");
 		System.out.print("hello");
 		System.out.print("hola");
 		System.out.println("ni hao");
 		System.out.print("how are you");
 		System.out.println("hey");
+		
+		/*Output
+		hi
+		helloholani hao
+		how are youhey
+		*/
 	}
 
 }
